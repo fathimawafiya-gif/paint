@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#toolbar {
+    margin: 20px 0;
+}
+
+#paint-canvas {
+    border: 1px solid black;
+    cursor: crosshair;
+}
